@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Machine Learning at Bangkit Academy
+- 🌱 I’m currently learning Machine Learning at DBS Coding Camp
 - 💬 Ask me about anything about tech
 - 📫 How to reach me: https://www.linkedin.com/in/raflimr/
 
